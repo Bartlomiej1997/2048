@@ -1,0 +1,68 @@
+{
+  "tile": "#CDC1B3",
+  "border": "#BBADA0",
+  "2": {
+    "font": "#766C62",
+    "background": "#EEE4DA"
+  },
+  "4": {
+    "font": "#766C5E",
+    "background": "#E9E2C5"
+  },
+  "8": {
+    "font": "#FBE9D6",
+    "background": "#F3B177"
+  },
+  "16": {
+    "font": "#FAF4F7",
+    "background": "#F69463"
+  },
+  "32": {
+    "font": "#F8F8DA",
+    "background": "#F18161"
+  },
+  "64": {
+    "font": "#EEFDF5",
+    "background": "#F95A41"
+  },
+  "128": {
+    "font": "#F2EBB4",
+    "background": "#F2D16F"
+  },
+  "256": {
+    "font": "#ECE3BF",
+    "background": "#EECC62"
+  },
+  "512": {
+    "font": "#FCFACD",
+    "background": "#EFC74F"
+  },
+  "1024": {
+    "font": "#FDF7BD",
+    "background": "#EDC63B"
+  },
+  "2048": {
+    "font": "#FDEDA8",
+    "background": "#EEC82E"
+  },
+  "4096": {
+    "font": "#F4D2C7",
+    "background": "#F9423E"
+  },
+  "8192": {
+    "font": "#D5AE9F",
+    "background": "#FE231E"
+  },
+  "16384": {
+    "font": "#D5AE9F",
+    "background": "#FE231E"
+  },
+  "32768": {
+    "font": "#D5AE9F",
+    "background": "#FE231E"
+  },
+  "65536": {
+    "font": "#D5AE9F",
+    "background": "#FE231E"
+  }
+}
